@@ -1,4 +1,11 @@
 # Milepael 2
+Midjo Grand Prix 1970 is a fast-paced racing game developed for the Raspberry Pi SenseHat. Play as Arne Midjo and race in the speedy car "Hype One", navigating through gates while managing your fuel levels. The challenge is to keep your fuel up by collecting fuel cans scattered on the track.
+
+The game features simple gyro-based controls: tilt the Raspberry Pi to steer the car. With multiplayer support, you can use a phone, tablet, or PC as a controller and compete for high scores.
+
+Points are earned by passing gates, and fuel is consumed as you race. Collect fuel cans to stay in the game, and advance through levels with increasing difficulty. Running out of fuel means "Game Over," but you can restart by pressing the joystick. Win the game by reaching 32 points on level 3!
+
+
 ## Starting the game
 ### Without multiplayer
 ```console
